@@ -25,7 +25,7 @@ namespace ChapterAPI.Context
 
                 // cada provedor tem sua sintaxe para especificação  
 
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-6SQ3271\\SQLEXPRESS; initial catalog = Chapter; Integrated Security = true");
+                optionsBuilder.UseSqlServer("Data Source = DESKTOP-O5K09UF\SQL; initial catalog = Chapter; Integrated Security = true");
 
             }
 
